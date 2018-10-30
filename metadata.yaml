@@ -1,0 +1,30 @@
+_repo: DoodlesThe-Sunshine-Boy_58164
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kirk, Maria Louise
+    aliases:
+    - Kirk, M. L. (Maria Louise)
+    - Kirk, Maria L.
+    birthdate: 1860
+    gutenberg_agent_id: '9513'
+    url: http://www.gutenberg.org/2009/agents/9513
+creator:
+  author:
+    agent_name: Dowd, Emma C.
+    deathdate: 1938
+    gutenberg_agent_id: '3909'
+    url: http://www.gutenberg.org/2009/agents/3909
+description: ''
+gutenberg_issued: '2018-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Doodles—The Sunshine Boy
+url: http://www.gutenberg.org/ebooks/58164
